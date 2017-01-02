@@ -1,4 +1,4 @@
-## Caffe hand on tutorial by Jinfagang
+## Caffe Hands on Tutorial by Jinfagang
 
 > This caffe tutorial written by Jinfagang-Master in CSU, if you have any question about this post please contact me via WeChat: jintianiloveu ,if you repost this blog, please keep this original mark, thanks very much!
 
